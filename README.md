@@ -12,11 +12,13 @@ O arquivo de saída será nomeado tensor.out
 
 Para compilar o projeto, utilize o comando:
 
-make
+make <br>
+
 Isso irá gerar o executável tensor.
 
-Execução
+# Execução
 Para executar o programa, utilize o comando:
 
-./tensor [namefile1] [namefile2]
-onde [namefile1] e [namefile2] são os nomes dos arquivos contendo as matrizes de entrada.
+./tensor [namefile1] [namefile2] <br>
+
+onde [namefile1] e [namefile2] são os nomes dos arquivos contendo as matrizes de entrada. <br>
